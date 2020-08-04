@@ -1,0 +1,14 @@
+.cellphone{
+    height: 300px;
+    margin: 2%;
+}
+
+.play{
+    display: block;
+    margin: 10px 0px 0;
+}
+
+p {
+    padding: 0;
+    margin: 0px 0px 0;
+}
