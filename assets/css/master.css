@@ -12,3 +12,15 @@ p {
     padding: 0;
     margin: 0px 0px 0;
 }
+.bg-success {
+    background-color: #00BCD4!important;
+}
+.bg-info {
+    background-color: #0f6e96!important;
+}
+.bg-warning {
+    background-color: #063143!important;
+}
+.bg-danger {
+    background-color: #031019!important;
+}
